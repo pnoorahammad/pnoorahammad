@@ -1,4 +1,0 @@
-1. Create a public repository named 'pnoorahammad'
-2. Upload README.md (or replace existing).
-3. Commit changes.
-4. Refresh your GitHub profile.
